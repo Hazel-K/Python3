@@ -1,7 +1,7 @@
 class Cat ():
     species = "russian blue"
 
-    def __init__(self, Name):
+    def __init__(self, name):
         self.name = name
 
 cat1 = Cat("냥1")
